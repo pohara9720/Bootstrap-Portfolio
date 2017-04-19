@@ -46,9 +46,10 @@ form {
 	background: url(https://static.vecteezy.com/system/resources/previews/000/106/663/original/shiny-metal-texture-vector.jpg);
 }
 .pp {
-	width: 500px;
-	height: 500px;
+	width: 450px;
+	height: 450px;
 	border-radius:50%;
+	margin-top: 35px;
 }
 .text {
 	color:black;
