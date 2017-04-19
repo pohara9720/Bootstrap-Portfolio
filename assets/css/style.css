@@ -4,19 +4,29 @@ body {
 
 .right {
 	float: right;
+
 }
+
+
 .icon {
 	width:50px;
 	height: 50px;
 	border-radius:50%;
 	border:solid black 1px;
-	margin-bottom: 30px;
+	margin-bottom: 10px;
+	
+	
+
 }
 
 .head {
 	margin-top: 20px;
 	font-size:20px;
 	font-weight: bold;
+	text-align: center;
+	
+
+	
 }
 nav {
 	height:75px;
@@ -53,6 +63,8 @@ form {
 	background: url(https://static.vecteezy.com/system/resources/previews/000/106/663/original/shiny-metal-texture-vector.jpg);
 }
 .footer {
-	margin-top: 25px;
+	margin-top: 10px;
 	font-size: 15px;
+
 }
+
